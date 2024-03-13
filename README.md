@@ -1,4 +1,4 @@
-# Data Structures and Algorithms 
+# Data Structures and Algorithms Implementation
 
 📚 This repository contains implementations of various data structures and algorithms in C. Below is a brief overview of what is included:
 
